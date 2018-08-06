@@ -8,4 +8,3 @@ const backdrop = props =>
     : null;
 
 export default backdrop;
- 
